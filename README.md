@@ -11,3 +11,5 @@ Three shapes in a circle is the school badge of RUC.
 BTW, this badge is the most famous school badge in China.
 
 This version is modified from Gabriele Cirulli's 2048 game.
+
+![image](https://raw.githubusercontent.com/jileiwang/ruc2048/master/sample.jpg)
