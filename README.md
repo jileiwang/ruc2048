@@ -2,7 +2,7 @@
 
 This is a RUC version of 2048 game. You can play on your phone via:
 
-http://itml.sz.tsinghua.edu.cn/members/jileiwang/2048/
+https://penguin-stats.io/RUC2048/
 
 RUC = Renmin University of China
 
